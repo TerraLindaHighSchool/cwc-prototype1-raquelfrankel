@@ -3018,6 +3018,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 15
+  turnSpeed: 1
 --- !u!1001 &1522430113
 PrefabInstance:
   m_ObjectHideFlags: 0
